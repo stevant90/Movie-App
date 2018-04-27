@@ -12,4 +12,6 @@ To run project in dev env
 
 ### `yarn start`
 
+DEMO: [Movie-App](http://localhost:3000/#/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
