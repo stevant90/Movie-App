@@ -6,7 +6,11 @@
   "dependencies": {
     "axios": "^0.18.0",
     "component": "^1.1.0",
+<<<<<<< HEAD
     "gh-pages": "^1.2.0",
+=======
+    "hoek": "^5.0.3",
+>>>>>>> cadd7f02f951e1aca3284523e057e65a6757c50b
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-materialize": "^2.1.2",
