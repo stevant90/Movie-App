@@ -1,7 +1,5 @@
 ## Movie-App
 
-Movie-App is a simple singe page application which contains information about tv shows. This application is written in React.js. For all content API from https://www.tvmaze.com/api was used. For styling react-materialize was used. 
-
 ## Instalation
 
 ### `npm install`
