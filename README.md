@@ -1,5 +1,6 @@
 ## Movie-App
 
+DEMO: [movie-app](https://stevant90.github.io/movie-app/)
 ## Instalation
 
 ### `npm install`
