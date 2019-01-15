@@ -5,7 +5,7 @@ export const Navigation = () => {
 
     return (
         <Navbar brand='Movie-app' right>
-            <NavItem href='/'>Home</NavItem>
+            <NavItem href='#/'>Home</NavItem>
         </Navbar>
     );
 }
