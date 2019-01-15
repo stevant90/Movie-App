@@ -37,7 +37,7 @@ footer.page-footer, footer.footer-copyright {
     bottom: 0;
     left: 0;
     height: 176px;
-    widows: 100%;
+    width: 100%;
 }
 
 header {
